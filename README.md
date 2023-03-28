@@ -1,14 +1,14 @@
 This repository contains the electronic supplementary material that supports the paper:
 
-Bayón, A., Valero, D. & Franca, M. (2023). "Urban Flood Drifters (UFD): identification, classification and characterization". Proceedings of the Royal Society of Edinburgh Section A: Mathematical, Physical and Engineering Sciences (submitted).
+*Bayón, A., Valero, D. & Franca, M. (2023). "Urban Flood Drifters (UFD): identification, classification and characterization". Proceedings of the Royal Society of Edinburgh Section A: Mathematical, Physical and Engineering Sciences (submitted).*
 
 
-SUMMARY:
+ **SUMMARY**
 
 In this study, we define Urban Flood Drifters (UFDs) as loose objects present in the urban landscape that can become mobile under certain flow conditions, subsequently blocking drainage infrastructure and endangering both downstream and upstream communities. Based on post-flood photographic records from major inundations worldwide over the past quarter-century, we provide a comprehensive analysis of UFDs and their implications for flood hazards. We propose a classification of UFDs into different groups based on their origin. Additionally, we offer a detailed analysis of a representative sample of various types of urban objects that can become destabilized and turn into UFDs.
 
 
-CONTENT:
+**CONTENT**
 
 - "prevalence.csv":, prevalence of urban flood drifters on a yes/no basis in the analyzed graphic material.
 
