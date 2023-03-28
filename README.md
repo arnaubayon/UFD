@@ -12,8 +12,8 @@ CONTENT:
 
 - "prevalence.csv":, prevalence of urban flood drifters on a yes/no basis in the analyzed graphic material.
 
-    ID:        photo/video identifier
-    year:      year of event
+    ID:        photo/video identifier<br>
+    year:      year of event<br>
     country:   country or countries affected by flood
     V1:        two-wheelers: Bikes, motorbikes and e-scooters.
     V2:        cars: Cars and other light four-wheel vehicles designed to transport of passengers.
