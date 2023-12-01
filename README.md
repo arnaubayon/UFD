@@ -12,7 +12,7 @@ In this study, we define Urban Flood Drifters (UFDs) as loose objects present in
 
 **CONTENT**
 
-- "prevalence.csv":, prevalence of urban flood drifters on a yes/no basis in the analyzed graphic material.
+- "prevalence.csv": prevalence of urban flood drifters on a yes/no basis in the analyzed graphic material.
 
     ID:        photo/video identifier<br>
     year:      year of event<br>
