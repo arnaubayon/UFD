@@ -41,5 +41,5 @@ In this study, we define Urban Flood Drifters (UFDs) as loose objects present in
     m:         mass [kg]<br>
     V:         volume of bounding box (V = Lx·Ly·Lz) [m³]<br>
     ρ:         apparent density (ρ = m/V) [kg/m³]<br>
-    source:    original source where theinformation was found<br>
+    source:    original source where the information was found<br>
     
